@@ -1,0 +1,12 @@
+C:\Users\cicer\source\repos\Loja\Loja.DTO\bin\Debug\Loja.DTO.dll
+C:\Users\cicer\source\repos\Loja\Loja.DTO\bin\Debug\Loja.DTO.pdb
+C:\Users\cicer\source\repos\Loja\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+C:\Users\cicer\source\repos\Loja\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\Users\cicer\source\repos\Loja\Loja.DTO\obj\Debug\Loja.DTO.dll
+C:\Users\cicer\source\repos\Loja\Loja.DTO\obj\Debug\Loja.DTO.pdb
+C:\PROJETOS\Visual-StudioC#\Loja\Loja.DTO\bin\Debug\Loja.DTO.dll
+C:\PROJETOS\Visual-StudioC#\Loja\Loja.DTO\bin\Debug\Loja.DTO.pdb
+C:\PROJETOS\Visual-StudioC#\Loja\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+C:\PROJETOS\Visual-StudioC#\Loja\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Visual-StudioC#\Loja\Loja.DTO\obj\Debug\Loja.DTO.dll
+C:\PROJETOS\Visual-StudioC#\Loja\Loja.DTO\obj\Debug\Loja.DTO.pdb
